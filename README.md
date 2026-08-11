@@ -1,2 +1,2 @@
 # simplecalculator
-A simple calculator made with custom Tkinter
+A simple calculator made with python using custom Tkinter
